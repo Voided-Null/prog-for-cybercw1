@@ -1,6 +1,6 @@
 # prog-for-cybercw1 : cyber-security-utilities 
 # BY BIANCA HUGHES - UWS LANARKSHIRE - B01807021
-This program is made up of two files; main.py & security-tools.py main.py will run the program and the functions from security-tools.py will be imported into it.
+This program is made up of two files; main.py & security-tools.py - main.py will run the program and the functions from security-tools.py will be imported into it.
 security-tools.py will contain the following functions: 
 
   -IP CHECKER 
